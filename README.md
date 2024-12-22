@@ -1,2 +1,7 @@
 # cloudflare-workers-speedtest
-Creating a test site using cloudflare workers
+
+A simple speedtest for cloudflare workers
+
+# Usage
+
+copy the code in _worker.js to cloudflare workers
